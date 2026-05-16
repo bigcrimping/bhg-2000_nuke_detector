@@ -15,7 +15,7 @@ This current is amplified by a transimpedance amplifier and used to trigger a nu
 As part of the Bhangmeter project this was done with a HSN-1000L module, this has now been made obsolete so the BHG-2000 is provided as a replacement
 
 <div align="center">
-  <img width="500" height="1207" alt="image" src="https://github.com/user-attachments/assets/5f2e4348-94f9-4423-b923-28978f2a8a4e" />
+  <img width="500"alt="image" src="https://github.com/user-attachments/assets/5f2e4348-94f9-4423-b923-28978f2a8a4e" />
 </div>
 <br><br>
 # How does it work
@@ -70,7 +70,7 @@ Available in the repo are:
 # BhangmeterV2 Compatibility 
 
 <div align="center">
-  <img width="500" height="1156" alt="image" src="https://github.com/user-attachments/assets/92e5c953-5712-4069-8f73-6f1d1be3a651" />
+  <img width="500" alt="image" src="https://github.com/user-attachments/assets/92e5c953-5712-4069-8f73-6f1d1be3a651" />
 </div>
 
 The BHG-2000 is designed as a pin-for-pin replacement for the HSN-1000L module used in the [BhangmeterV2](https://github.com/bigcrimping/bhangmeterV2). The HSN-1000L has been discontinued and is no longer available, the BHG-2000 is intended to slot directly into the existing socket without modification to the host board.
